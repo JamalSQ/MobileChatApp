@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JamalChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/Dark_Gray_color</item>
+        <item name="colorPrimaryVariant">@color/main_chat_bgcolor_SoftGray</item>
+        <item name="android:displayOptions">showHome|useLogo</item>
+    </style>
+
+    <style name="theme.NoActionbar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

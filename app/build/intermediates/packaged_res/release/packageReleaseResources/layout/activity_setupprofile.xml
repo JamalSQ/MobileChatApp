@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".setupprofile">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="30dp"
+            android:layout_marginHorizontal="20dp"
+
+            >
+
+            <TextView
+                android:id="@+id/userName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jamal"
+                android:textAllCaps="true"
+                android:textColor="@color/White_color"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginTop="30dp"
+                app:layout_constraintBottom_toTopOf="@id/profilePic"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+
+                />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profilePic"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="50dp"
+                    android:src="@drawable/placeholder"
+                    app:civ_border_width="1dp"
+                    app:civ_border_color="@color/White_smoke"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/userName" />
+
+
+            <EditText
+                android:id="@+id/updateName"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="52dp"
+                android:hint="Enter your Name"
+                android:paddingStart="20dp"
+                android:backgroundTint="@color/White_color"
+                android:background="@drawable/custom_edt_text_view_shape"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                app:layout_constraintStart_toStartOf="@+id/profilePic"
+                app:layout_constraintEnd_toEndOf="@+id/profilePic"
+                app:layout_constraintTop_toBottomOf="@+id/profilePic" />
+
+            <Button
+                android:id="@+id/profilebtn"
+                android:layout_width="140dp"
+                android:layout_height="49dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/custom_edt_text_view_shape"
+                android:text="Save Profile"
+                android:backgroundTint="@color/black"
+                android:layout_marginBottom="30dp"
+                android:textColor="@color/White_color"
+                app:layout_constraintStart_toStartOf="@+id/updateName"
+                app:layout_constraintEnd_toEndOf="@+id/updateName"
+                app:layout_constraintTop_toBottomOf="@+id/updateName" />
+
+
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+

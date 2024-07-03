@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.JamalChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+
+        <item name="android:displayOptions">showHome|useLogo</item>
+    </style>
+    <style name="theme.NoActionbar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

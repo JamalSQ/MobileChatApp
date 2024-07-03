@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\user_layout.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\receive.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\chat_toolbar.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\chat_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeDebugResources-45:/layout/activity_splash_screen.xml",
+        "source": "com.example.jamalchatapp-main-48:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\activity_setupprofile.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_setupprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\sent.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-mergeDebugResources-45:\\layout\\users_list_toolbar.xml",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\users_list_toolbar.xml"
+    }
+]

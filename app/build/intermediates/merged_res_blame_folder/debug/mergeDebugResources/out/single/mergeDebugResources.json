@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_shapearrow.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\shapearrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_sent.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo5.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_users_list_toolbar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\users_list_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\raw_lottieanimationchat1.json.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\raw\\lottieanimationchat1.json"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\raw_lottieanimationchat.json.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\raw\\lottieanimationchat.json"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_chat_toolbar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\chat_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo8.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo8.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo6.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_backarrowwhite.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\backarrowwhite.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_white_shadow.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\white_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_mainmanu.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\mainmanu.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_round_img_bg.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\round_img_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo7.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\menu_menubar.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\menu\\menubar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-debug-46:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.jamalchatapp-main-48:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_send.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo10.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo10.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_activity_setupprofile.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\activity_setupprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_backarrow.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\backarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_enter_icon.png.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\enter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_custom_edt_text_view_shape.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\custom_edt_text_view_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_logo9.jpeg.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\logo9.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\drawable_singlechatshape.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\drawable\\singlechatshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\raw_loader.json.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\raw\\loader.json"
+    },
+    {
+        "merged": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-debug-46:\\layout_receive.xml.flat",
+        "source": "C:\\Users\\Jamal\\.gradle\\daemon\\8.4\\com.example.jamalchatapp-main-48:\\layout\\receive.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-debug-46:/raw_peopleanimate.json.flat",
+        "source": "com.example.jamalchatapp-main-48:/raw/peopleanimate.json"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo7.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo7.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_enter_icon.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/enter_icon.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_back_icon.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_round_img_bg.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/round_img_bg.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_activity_setupprofile.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_setupprofile.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/menu_menubar.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/menu/menubar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_activity_signup.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_placeholder.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/placeholder.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_chat_toolbar.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/chat_toolbar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_backarrowwhite.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/backarrowwhite.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_white_shadow.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/white_shadow.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_setting.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/setting.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo8.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo8.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_users_list_toolbar.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/users_list_toolbar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_mainmanu.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/mainmanu.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_singlechatshape.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/singlechatshape.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_send.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/send.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_activity_main.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo9.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo9.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo6.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo6.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_activity_login.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_sent.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/sent.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_receive.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/receive.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_activity_chat.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/layout_user_layout.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/layout/user_layout.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo5.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo5.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_custom_edt_text_view_shape.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/custom_edt_text_view_shape.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_backarrow.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/backarrow.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_logo10.jpeg.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/logo10.jpeg"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/drawable_shapearrow.png.flat",
+        "source": "com.example.jamalchatapp-main-46:/drawable/shapearrow.png"
+    },
+    {
+        "merged": "com.example.jamalchatapp-release-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.jamalchatapp-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

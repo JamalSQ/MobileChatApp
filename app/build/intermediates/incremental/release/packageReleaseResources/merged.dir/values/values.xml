@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Dark_Gray_color">#333333</color>
+    <color name="Light_Blue_color">#AACCFF</color>
+    <color name="White_color">#FFFFFF</color>
+    <color name="White_smoke">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="main_chat_bgcolor_PaleBlue">#CFD8DC</color>
+    <color name="main_chat_bgcolor_SoftGray">#ECEFF1</color>
+    <color name="receiver_msg_bgcolor_Ivory">#FFFFF0</color>
+    <color name="receiver_msg_bgcolor_Sandstone">#D2B48C</color>
+    <color name="sender_msg_bgcolor_slateGray">#616161</color>
+    <color name="sender_msg_bgcolor_teal">#00796B</color>
+    <color name="text_color_darkGray">#333333</color>
+    <string name="app_name">ChitChat</string>
+    <string name="gcm_defaultSenderId" translatable="false">6266981407</string>
+    <string name="google_api_key" translatable="false">AIzaSyC5sFpxyvtl4RlJpKC2YSCjsKXwnKRLz50</string>
+    <string name="google_app_id" translatable="false">1:6266981407:android:5f3d8c56eb2ec8c44c592a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5sFpxyvtl4RlJpKC2YSCjsKXwnKRLz50</string>
+    <string name="google_storage_bucket" translatable="false">jamalchatapp1.appspot.com</string>
+    <string name="project_id" translatable="false">jamalchatapp1</string>
+    <style name="Base.Theme.JamalChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/Dark_Gray_color</item>
+        <item name="colorPrimaryVariant">@color/main_chat_bgcolor_SoftGray</item>
+    </style>
+    <style name="Theme.JamalChatApp" parent="Base.Theme.JamalChatApp"/>
+</resources>

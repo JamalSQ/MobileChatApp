@@ -1,0 +1,6 @@
+com.example.jamalchatapp.test.app-core-1.5.0-0 C:\Users\Jamal\.gradle\caches\transforms-3\50c80364addb2ef1e435bd09f45424bd\transformed\core-1.5.0\res
+com.example.jamalchatapp.test.app-annotation-experimental-1.4.0-1 C:\Users\Jamal\.gradle\caches\transforms-3\e496f31d8cf6f7b6b3717199b0a29183\transformed\annotation-experimental-1.4.0\res
+com.example.jamalchatapp.test.app-androidTest-2 C:\Users\Jamal\AndroidStudioProjects\fyp\jamalChatApp\app\build\generated\res\resValues\androidTest\debug
+com.example.jamalchatapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\Jamal\AndroidStudioProjects\fyp\jamalChatApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.jamalchatapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\Jamal\AndroidStudioProjects\fyp\jamalChatApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.jamalchatapp.test.app-debugAndroidTest-5 C:\Users\Jamal\AndroidStudioProjects\fyp\jamalChatApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/activity_chat.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/user_layout.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/user_layout.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/users_list_toolbar.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/users_list_toolbar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/chat_toolbar.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/chat_toolbar.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/activity_main.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/activity_signup.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/activity_setupprofile.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_setupprofile.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/activity_login.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/receive.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/receive.xml"
+    },
+    {
+        "merged": "com.example.jamalchatapp-mergeReleaseResources-44:/layout/sent.xml",
+        "source": "com.example.jamalchatapp-main-46:/layout/sent.xml"
+    }
+]

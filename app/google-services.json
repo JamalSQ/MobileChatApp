@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6266981407",
+    "project_id": "jamalchatapp1",
+    "storage_bucket": "jamalchatapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6266981407:android:5f3d8c56eb2ec8c44c592a",
+        "android_client_info": {
+          "package_name": "com.example.jamalchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sFpxyvtl4RlJpKC2YSCjsKXwnKRLz50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

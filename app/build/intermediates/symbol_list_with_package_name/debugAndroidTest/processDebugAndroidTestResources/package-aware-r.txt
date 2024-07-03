@@ -1,0 +1,3 @@
+com.example.jamalchatapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
