@@ -1,4 +1,4 @@
-# ChatApp
+# ChatApp  |  Semester Project
 
 ## Overview
 I have developed a complete chat application using Kotlin and XML in Android native. The app leverages Firebase Realtime Database and kotlin for backend services. It supports one-to-one communication and allows users to customize their profiles, including changing their name and profile picture. The app also includes user authentication with login and sign-up features.
